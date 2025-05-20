@@ -4,11 +4,12 @@
 
 ## About me
 
-#### Experienced fullstack engineer with 8+ years of web development experience.
+#### Experienced fullstack engineer with 10+ years of web development experience.
 #### Always love challenges and solving complicated technical issues.
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
 
+<!--
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/ionaspaul">
@@ -33,3 +34,4 @@
 <p align="center">
 	[My Profile Visitor Count] <img align="center" src="https://profile-counter.glitch.me/ionaspaul/count.svg" alt="ionaspaul's Github visitor Counts" />
 </p>
+-->
